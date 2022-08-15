@@ -1,4 +1,5 @@
-a = int(input())
-b = int(input())
+a = int(input("Digite o valor A:"))
+b = int(input("Digite o valor B:"))
 
-print (f"X = {a + b}")
+
+print (f"x = {a + b}")
